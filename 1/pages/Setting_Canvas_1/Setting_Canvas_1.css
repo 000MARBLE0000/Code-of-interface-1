@@ -1,0 +1,139 @@
+.page {
+  padding-top: 10.88rem;
+  background-color: #00000000;
+  background-image: url('https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/645d1ea45a7e3f0310298a17/645d1edab98f5d001168f98d/16838243981616533537.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.section_3 {
+  padding-top: 11.56rem;
+  background-image: url('https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/645d1ea45a7e3f0310298a17/645d1edab98f5d001168f98d/16838243981649696633.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.section_4 {
+  background-image: url('https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/645d1ea45a7e3f0310298a17/645d1edab98f5d001168f98d/16838243981660733133.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.section_5 {
+  padding: 29.38rem 0.75rem 0.63rem;
+  background-image: url('https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/645d1ea45a7e3f0310298a17/645d1edab98f5d001168f98d/16838243981660733133.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.image_3 {
+  width: 15.06rem;
+  height: 15.06rem;
+}
+.group_3 {
+  margin-left: 19.13rem;
+  margin-top: 5.19rem;
+}
+.space-y-14 > *:not(:first-child) {
+  margin-top: 0.88rem;
+}
+.image_5 {
+  margin-left: 0.25rem;
+  width: 4.69rem;
+  height: 5.19rem;
+}
+.font_2 {
+  font-size: 2.25rem;
+  font-family: SourceHanSansCN;
+  line-height: 2.31rem;
+  color: #ffffff;
+}
+.text_2 {
+  line-height: 1.69rem;
+}
+.group_2 {
+  margin-left: 7.5rem;
+  margin-top: 4.38rem;
+}
+.space-x-82 > *:not(:first-child) {
+  margin-left: 5.13rem;
+}
+.space-x-51 > *:not(:first-child) {
+  margin-left: 3.19rem;
+}
+.space-y-12 > *:not(:first-child) {
+  margin-top: 0.75rem;
+}
+.image_6 {
+  width: 4.59rem;
+  height: 5.13rem;
+}
+.image_7 {
+  width: 4.78rem;
+  height: 5.25rem;
+}
+.text_3 {
+  line-height: 2.22rem;
+}
+.space-y-4 > *:not(:first-child) {
+  margin-top: 0.25rem;
+}
+.image_4 {
+  margin-left: 0.5rem;
+  width: 5.88rem;
+  height: 6.38rem;
+}
+.section {
+  background-image: url('https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/645d1ea45a7e3f0310298a17/645d1edab98f5d001168f98d/16838243981687374683.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.pos {
+  position: absolute;
+  left: 0.94rem;
+  right: 0;
+  top: 0;
+}
+.section_2 {
+  padding: 3.25rem 6.19rem 32.25rem 7.25rem;
+  background-image: url('https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/645d1ea45a7e3f0310298a17/645d1edab98f5d001168f98d/16838243981687374683.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.space-x-85 > *:not(:first-child) {
+  margin-left: 5.31rem;
+}
+.text {
+  color: #ffffff;
+  font-size: 5rem;
+  font-family: SourceHanSansCN;
+  line-height: 3.78rem;
+}
+.group {
+  margin-top: 0.63rem;
+}
+.space-y-2 > *:not(:first-child) {
+  margin-top: 0.13rem;
+}
+.image {
+  width: 5.44rem;
+  height: 1.75rem;
+}
+.space-x-8 > *:not(:first-child) {
+  margin-left: 0.5rem;
+}
+.font_1 {
+  font-size: 1.44rem;
+  font-family: SourceHanSansCN;
+  line-height: 1.09rem;
+  color: #ffffff;
+}
+.image_2 {
+  width: 77.63rem;
+  height: 43.63rem;
+}
+.pos_2 {
+  position: absolute;
+  right: 18.88rem;
+  top: 10.38rem;
+}
